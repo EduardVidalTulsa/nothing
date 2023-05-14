@@ -5,7 +5,6 @@ $myserver='';
 $myuser='';
 $mypassword="";
 $mydatabase='';
-$ID_company='1';
 $maintenance=0;
 $telegramtoken="";
 $adminchannel="";
